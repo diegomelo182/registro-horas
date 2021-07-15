@@ -1,0 +1,4 @@
+{
+  "lengthError": "A quantidade de caracteres deve ser maior que $constraint1 e menor que $constraint2",
+  "formatError": "Campo inválido"
+}
